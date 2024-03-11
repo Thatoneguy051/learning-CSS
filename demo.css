@@ -31,3 +31,6 @@ p::first-line {
 p::selection{
     background-color: #fcbf49; ;
 }
+h1{
+    color:blue;
+}
